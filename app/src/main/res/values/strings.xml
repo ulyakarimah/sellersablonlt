@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">seller sablonlt</string>
+
+    <string name="namatoko">Masukan nama toko :</string>
+    <string name="url">URL</string>
+    <string name="namaproduk">Nama desain </string>
+    <string name="deskripsi">Deskripsi </string>
+    <string name="harga">Harga </string>
+    <string name="stok">Stok :</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="tambahkan">Tambahkan desain</string>
+    <string name="foto">Foto</string>
+    <string name="toko">Nama toko</string>
+    <string name="alamat">Alamat</string>
+    <string name="detail">Detail Alamat</string>
+    <string name="desain">Desain</string>
+    <string name="chat">Hubungi</string>
+    <string name="simpan">Simpan</string>
+</resources>

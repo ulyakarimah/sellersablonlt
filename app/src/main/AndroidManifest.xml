@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sellersablonlt">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SellerSablonlt">
+        <activity android:name=".ui.desain.DetailDesainActivity"/>
+        <activity android:name=".ui.toko.DesainActivity" />
+        <activity android:name=".ui.desain.AddDesain"/>
+        <activity android:name=".ui.toko.DetailTokoActivity"/>
+        <activity android:name=".ui.toko.ListActivity"/>
+        <activity android:name=".ui.toko.AddActivity"/>
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".ui.Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
